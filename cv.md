@@ -15,7 +15,14 @@ in the timely completion of projects.
 
 
 ### **Skills and Proficiency:**  
-
+HTML5, CSS3  
+JavaScript, jQuery  
+Vue.js, Vuex  
+Gulp, Webpack, Pug  
+Git, GitHub  
+VS Code  
+Adobe Photoshop, Illustrator, Figma  
+*** *******
 
 ### **Courses:**  
 + University: Kherson National Technical University  
