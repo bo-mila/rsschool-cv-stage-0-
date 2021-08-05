@@ -1,0 +1,32 @@
+# Mila Bozhevskaya  
+## Junior Frontend Developer
+**********************
+### **Contact information:**  
+#### **Phone:** +38 099 7303391  
+#### **E-mail:** mi.bozhev@gmail.com  
+#### **Telegram:** @milabozhevskaya  
+#### [LinkedIn](https://www.linkedin.com/in/mila-bozhevskaya-63a27919a/)  
+*** ****** *****
+
+### **Briefly About Myself:**  
+
+
+
+### **Skills and Proficiency:**  
+
+
+### **Courses:**  
++ University: Kherson National Technical University  
++ HTML and CSS Tutorials on the w3schools (completed)  
++ W3Schools Score  
++ Loftschool [Basic Murcup](https://loftschool.com/diploma/IM1564666083/en/pdf)  
++ JavaScript Manual on learnjavascript.ru  
++ Loftschool [Web Development for Beginners](https://loftschool.com/diploma/PM1570104832/en/pdf)  
++ Loftschool [Vue.js Advanced web development](https://loftschool.com/diploma/RY1573803341/en/pdf)  
++ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+
+### **Languages:**  
++ English - Pre-Intermediate/Intermediate   
++ Russian - Native  
++ Ukrainian - Native  
++ Polish - Basic  
