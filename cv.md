@@ -22,7 +22,6 @@ Gulp, Webpack, Pug
 Git, GitHub  
 VS Code  
 Adobe Photoshop, Illustrator, Figma  
-*** *******
 
 ### **Courses:**  
 + University: Kherson National Technical University  
