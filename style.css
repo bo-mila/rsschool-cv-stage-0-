@@ -497,7 +497,6 @@ address {
   width: 100%;
   flex-direction: column;
   align-items: center;
-  text-align: left;
   font-family: 'Roboto';
   margin-bottom: 20px;
 }
@@ -509,6 +508,7 @@ address {
   font-size: 20px;
   letter-spacing: 2px;
   margin-bottom: 10px;
+  text-align: center;
 }
 .contacts__list {
   width: 100%;
@@ -520,10 +520,12 @@ address {
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .contacts__item-title {
   font-weight: 500;
+  margin-right: 10px;
   font-size: 18px;
 }
 .contacts__item-ref {
@@ -655,6 +657,7 @@ address {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
+  flex-wrap: wrap;
 }
 .courses__title {
   margin-right: 10px;
@@ -688,6 +691,11 @@ address {
   display: flex;
   align-items: center;
   margin-bottom: 5px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.works__item:last-child {
+  margin-bottom: 0;
 }
 .works__title {
   margin-right: 10px;
